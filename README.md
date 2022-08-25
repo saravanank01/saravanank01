@@ -1,4 +1,4 @@
-### Hi there Developors!👋.I'm Exciting to create a static page using Basic HTML and CSS.I'm Looking forward to see lots of ideas in GitHub. 
+### Hi there Developers!👋.I'm Exciting to create a static page using Basic HTML and CSS.I'm Looking forward to see lots of ideas in GitHub. 
 
 <!--
 **saravanank01/saravanank01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
