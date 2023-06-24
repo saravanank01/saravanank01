@@ -1,4 +1,4 @@
-### Hi there Developers!👋.I'm Excited to create a static web page using Basic HTML and CSS.I'm Looking forward to see lots of ideas in GitHub. 
+### Hi there Developers 👋. I'm currently working on developing my programming skills in c++,java and python. I'm excited to work on projects to shape myself to the future. 
 
 <!--
 **saravanank01/saravanank01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
